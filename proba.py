@@ -1,2 +1,2 @@
-print('hello world')
+print('hello krzysiek')
 2+2
